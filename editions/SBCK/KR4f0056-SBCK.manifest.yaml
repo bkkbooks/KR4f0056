@@ -1,0 +1,148 @@
+canonical_identifier: bkk:krp/KR4f0056/SBCK/v1
+canonical_location: https://kanripo.org/bkk/KR4f0056/SBCK/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 洪北江詩文集
+  date: '2015-09-11 18:02:56.158307'
+  source:
+    repository: kanripo
+    path: KR4f0056
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4f0056_000-SBCK.yaml, hash: 'sha256:129ff7733439f9554f3a60b966c5ec679008feef0a198b49918539eedcc08758'}
+  - {seq: 1, filename: KR4f0056_001-SBCK.yaml, hash: 'sha256:3103f3f8a736ec90dc8d71f440e3d857fc9da5191fee957272ab695185710249'}
+  - {seq: 2, filename: KR4f0056_002-SBCK.yaml, hash: 'sha256:f70bf3793cb716ba769d7dc95d99a92dc94aad067e66ae0cdab24288520f0f9c'}
+  - {seq: 3, filename: KR4f0056_003-SBCK.yaml, hash: 'sha256:1da305ac4c7a03aad6c1d93e1ad6281a366753a51679b4dcb180b59af7a3a35b'}
+  - {seq: 4, filename: KR4f0056_004-SBCK.yaml, hash: 'sha256:a87d43b986bd4ac4eb0561399948870d12d9cab1883ffedb3dad9386725ece68'}
+  - {seq: 5, filename: KR4f0056_005-SBCK.yaml, hash: 'sha256:885b45d05f2f1b247549decb8e9b5e5439a0fdc499f6a49bec686215e91c9b08'}
+  - {seq: 6, filename: KR4f0056_006-SBCK.yaml, hash: 'sha256:0bed26185be791b04fa8f58b2763830497b4ecf9ad1c0c79949bcd44c129a7d9'}
+  - {seq: 7, filename: KR4f0056_007-SBCK.yaml, hash: 'sha256:4477f7a33e4369f4bf6ed6f39e284d3e6016d5f8b83e4ba82f8648524dd011cc'}
+  - {seq: 8, filename: KR4f0056_008-SBCK.yaml, hash: 'sha256:9b273335949ed09bb348bfde36e6c21a5b4cade79fea29ca6df3b397a5f28d6d'}
+  - {seq: 9, filename: KR4f0056_009-SBCK.yaml, hash: 'sha256:b597a48432b3bdb9800cb22f3da0ccd856dc9692ebde5f79f2b28c3db993340d'}
+  - {seq: 10, filename: KR4f0056_010-SBCK.yaml, hash: 'sha256:0234e456e128c32ca2ed82a1aa6e92db0c5dca790d9d7648e1a013ebb3f1c2c2'}
+  - {seq: 11, filename: KR4f0056_011-SBCK.yaml, hash: 'sha256:c810d5fcddd6666e7560e4ec9be365a32d4b4b62f2f2ab914990f50aadeb1b5d'}
+  - {seq: 12, filename: KR4f0056_012-SBCK.yaml, hash: 'sha256:d8d7f3ffde321b7fdd52e5f6176f0651895588fd45dc0ccbdbec5fa274decca8'}
+  - {seq: 13, filename: KR4f0056_013-SBCK.yaml, hash: 'sha256:9bcc9c416444f82502de7fd5cae6f26fdc9ac79cca9fbba98382278cbc4aa70b'}
+  - {seq: 14, filename: KR4f0056_014-SBCK.yaml, hash: 'sha256:5b2d6cf1d3b83d919915b3cd559410b09e5214bb4026cd1bfae98eadc2d298a6'}
+  - {seq: 15, filename: KR4f0056_015-SBCK.yaml, hash: 'sha256:5d7a0f30ce759c1c01055505417bbcac9b8d793ff162c206f38abc72bedce8e5'}
+  - {seq: 16, filename: KR4f0056_016-SBCK.yaml, hash: 'sha256:3fcd839b4ed64ae0fa915bf5e14e577e14d1542c4c1bbecabb484792b2c6f409'}
+  - {seq: 17, filename: KR4f0056_017-SBCK.yaml, hash: 'sha256:8cd6879d68d6dd68811fd17618fa872efb4c75ccb42482d0362e7bd131fcd1d1'}
+  - {seq: 18, filename: KR4f0056_018-SBCK.yaml, hash: 'sha256:20330aa5871b2ab09e7121206cf80037fa835c8711bd646c350c85cf913ea943'}
+  - {seq: 19, filename: KR4f0056_019-SBCK.yaml, hash: 'sha256:f0aec9d98855959b1cdd77aa6b005e80c2dff35b71df14b2825cd193e22eaf59'}
+  - {seq: 20, filename: KR4f0056_020-SBCK.yaml, hash: 'sha256:00e560853e94fb73cdfdf92d3fb87d85db84eae3b330a5bdc02d2376c66e9a17'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4f0056_000-SBCK.markers.yaml, hash: 'sha256:d2e1db361d37435ada95cab982dc8fea44fd7b7d2c6e90e8620bb4d9b47487ad'}
+  - {seq: 1, role: markers, filename: assets/KR4f0056_001-SBCK.markers.yaml, hash: 'sha256:da46e873e16b2d656d709b0eb69dab5534d63d994e709141b5adaeca316e4df1'}
+  - {seq: 2, role: markers, filename: assets/KR4f0056_002-SBCK.markers.yaml, hash: 'sha256:5b9221f402361a65f3b465defd0aaeedd50b9d782bf77ee5bce568ca68917d2e'}
+  - {seq: 3, role: markers, filename: assets/KR4f0056_003-SBCK.markers.yaml, hash: 'sha256:55553a3df2c649f63fd5ac4e8602fb273310421b8551eab9b4f0b7b1177ae908'}
+  - {seq: 4, role: markers, filename: assets/KR4f0056_004-SBCK.markers.yaml, hash: 'sha256:43db2a56d9c4c4e7341f82ea96544f24403a22c1e2ff96a75f859116815929a7'}
+  - {seq: 5, role: markers, filename: assets/KR4f0056_005-SBCK.markers.yaml, hash: 'sha256:697424738402f158acaf8bb730cf34856e6e598e7ebe8ea683580a74c8b40a07'}
+  - {seq: 6, role: markers, filename: assets/KR4f0056_006-SBCK.markers.yaml, hash: 'sha256:0a643940fe5b7504ea1593f08b23b1b6ee0aa3a1a87083c8c77e5470f4a7c2cc'}
+  - {seq: 7, role: markers, filename: assets/KR4f0056_007-SBCK.markers.yaml, hash: 'sha256:75e0ccf6c89ddf1f858eafe36d3ebce2f03cb1e075956b2cdfcdd7bcd5c257d9'}
+  - {seq: 8, role: markers, filename: assets/KR4f0056_008-SBCK.markers.yaml, hash: 'sha256:1f28b1718435796500a2fc5fb01eb5744bc9a1ae00530e80d8179ede60b6a7e8'}
+  - {seq: 9, role: markers, filename: assets/KR4f0056_009-SBCK.markers.yaml, hash: 'sha256:06ce561154fa49097fb5642e2c1b2d2e50a0b12a765bc99d55bfc0123abe4f2c'}
+  - {seq: 10, role: markers, filename: assets/KR4f0056_010-SBCK.markers.yaml, hash: 'sha256:7c840a566678066ab71312ba682d9107a60ded137cde3a7fac2f70278da12f49'}
+  - {seq: 11, role: markers, filename: assets/KR4f0056_011-SBCK.markers.yaml, hash: 'sha256:4361d998bdb6b518e6bd746612bc8aa4ff62c6d3040fb5e539c0e058ed685198'}
+  - {seq: 12, role: markers, filename: assets/KR4f0056_012-SBCK.markers.yaml, hash: 'sha256:9d20a6440d530ed7dcd80597ee4a7571a456d1a342afde0702aa85d65d0a53a1'}
+  - {seq: 13, role: markers, filename: assets/KR4f0056_013-SBCK.markers.yaml, hash: 'sha256:ecfc5f811a92887860d704ab6705dec56ce1cdf9da55776e5b05111e178e50f9'}
+  - {seq: 14, role: markers, filename: assets/KR4f0056_014-SBCK.markers.yaml, hash: 'sha256:dc1ac1f6f5c17960c0c6ff6225dd019495fc90f990604bee0d41cd602a899e74'}
+  - {seq: 15, role: markers, filename: assets/KR4f0056_015-SBCK.markers.yaml, hash: 'sha256:c2cfd310e771816841fbe0fd2cf94d698ca87c8607019a81c7ca444b4d13bdb7'}
+  - {seq: 16, role: markers, filename: assets/KR4f0056_016-SBCK.markers.yaml, hash: 'sha256:2b685ca3b33d00b47b37d5479f26b0814db875acc783f7dbbc4dd66722541149'}
+  - {seq: 17, role: markers, filename: assets/KR4f0056_017-SBCK.markers.yaml, hash: 'sha256:169f4c602b954cc83f2b83117a38076bffb5c802244641d1507fb39f8e21e081'}
+  - {seq: 18, role: markers, filename: assets/KR4f0056_018-SBCK.markers.yaml, hash: 'sha256:9fb6b48e81af7280a5573a2fb1b8661461be9c789847918fd758f7b6b17fc3f2'}
+  - {seq: 19, role: markers, filename: assets/KR4f0056_019-SBCK.markers.yaml, hash: 'sha256:d3853f14a472730b37010740bee2f5c05e2ac39aac0dbc870e6d83d5277dcf61'}
+  - {seq: 20, role: markers, filename: assets/KR4f0056_020-SBCK.markers.yaml, hash: 'sha256:8fa32face98b21a657154eb56f35b872796a331c0f4ff14b68835a8518cabf45'}
+table_of_contents:
+- ref: {seq: 0, marker_id: KR4f0056_SBCK_000-1a, span: [body, 0, 16342]}
+  label: juan 000
+  type: section
+  level: 1
+- ref: {seq: 1, marker_id: KR4f0056_SBCK_001-1a, span: [body, 0, 23918]}
+  label: juan 001
+  type: section
+  level: 1
+- ref: {seq: 2, marker_id: KR4f0056_SBCK_002-1a, span: [body, 0, 7831]}
+  label: juan 002
+  type: section
+  level: 1
+- ref: {seq: 3, marker_id: KR4f0056_SBCK_003-1a, span: [body, 0, 11765]}
+  label: juan 003
+  type: section
+  level: 1
+- ref: {seq: 4, marker_id: KR4f0056_SBCK_004-1a, span: [body, 0, 7483]}
+  label: juan 004
+  type: section
+  level: 1
+- ref: {seq: 5, marker_id: KR4f0056_SBCK_005-1a, span: [body, 0, 9415]}
+  label: juan 005
+  type: section
+  level: 1
+- ref: {seq: 6, marker_id: KR4f0056_SBCK_006-1a, span: [body, 0, 8660]}
+  label: juan 006
+  type: section
+  level: 1
+- ref: {seq: 7, marker_id: KR4f0056_SBCK_007-1a, span: [body, 0, 8557]}
+  label: juan 007
+  type: section
+  level: 1
+- ref: {seq: 8, marker_id: KR4f0056_SBCK_008-1a, span: [body, 0, 8129]}
+  label: juan 008
+  type: section
+  level: 1
+- ref: {seq: 9, marker_id: KR4f0056_SBCK_009-1a, span: [body, 0, 8128]}
+  label: juan 009
+  type: section
+  level: 1
+- ref: {seq: 10, marker_id: KR4f0056_SBCK_010-1a, span: [body, 0, 9975]}
+  label: juan 010
+  type: section
+  level: 1
+- ref: {seq: 11, marker_id: KR4f0056_SBCK_011-1a, span: [body, 0, 7017]}
+  label: juan 011
+  type: section
+  level: 1
+- ref: {seq: 12, marker_id: KR4f0056_SBCK_012-1a, span: [body, 0, 10827]}
+  label: juan 012
+  type: section
+  level: 1
+- ref: {seq: 13, marker_id: KR4f0056_SBCK_013-1a, span: [body, 0, 9831]}
+  label: juan 013
+  type: section
+  level: 1
+- ref: {seq: 14, marker_id: KR4f0056_SBCK_014-1a, span: [body, 0, 6690]}
+  label: juan 014
+  type: section
+  level: 1
+- ref: {seq: 15, marker_id: KR4f0056_SBCK_015-1a, span: [body, 0, 6191]}
+  label: juan 015
+  type: section
+  level: 1
+- ref: {seq: 16, marker_id: KR4f0056_SBCK_016-1a, span: [body, 0, 6547]}
+  label: juan 016
+  type: section
+  level: 1
+- ref: {seq: 17, marker_id: KR4f0056_SBCK_017-1a, span: [body, 0, 8951]}
+  label: juan 017
+  type: section
+  level: 1
+- ref: {seq: 18, marker_id: KR4f0056_SBCK_018-1a, span: [body, 0, 10081]}
+  label: juan 018
+  type: section
+  level: 1
+- ref: {seq: 19, marker_id: KR4f0056_SBCK_019-1a, span: [body, 0, 9131]}
+  label: juan 019
+  type: section
+  level: 1
+- ref: {seq: 20, marker_id: KR4f0056_SBCK_020-1a, span: [body, 0, 8652]}
+  label: juan 020
+  type: section
+  level: 1
+hash: sha256:8962253a267fd9952e696b0ffcebd22fb58b3708ecb4818f29d0d554b87a586e
